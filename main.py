@@ -44,4 +44,4 @@ number4 = num1
 
 while number4 <= num2:
     print(f'{number4}')
-    number4 +=7
+    number4 +=5
