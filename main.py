@@ -5,7 +5,7 @@ while num1 < num2:
     num1 += 1
     if num1 % 3 == 0:
         print('Fizz')
-    elif num1 & 5 == 0:
+    elif num1 % 5 == 0:
         print('Buzz')
     elif num1 % 3 == 0:
         print('Fizz Buzz')
